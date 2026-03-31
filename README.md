@@ -2,7 +2,7 @@
 
 CS graduate from Unibo, now studying AI Systems at Unitn.
 
-I build things with AI — mostly tools I actually need.
+I build things with AI, mostly tools I actually need.
 Interested in how AI systems store and use knowledge efficiently.
 
 ---
